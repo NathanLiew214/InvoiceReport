@@ -1,0 +1,164 @@
+
+"Customers" :[
+  {
+    "customerCode": "lsvntk",
+    "customerType": "B",
+    "name": "State of Nebraska",
+    "primaryContactCode": {
+      "personCode": "123a",
+      "lastName": "Battle",
+      "firstName": " Petra",
+      "address": {
+        "street": "1 Blue Jays Way",
+        "city": "Toronto",
+        "state": " ON",
+        "zip": " M5V 1J1",
+        "country": " Canada"
+      },
+      "emailAddress": [
+        "danextpm@canada.gov"
+      ]
+    },
+    "address": {
+      "street": "100 W Fake Street",
+      "city": "Albaquerque",
+      "state": "NM",
+      "zip": "80706",
+      "country": "USA"
+    }
+  },
+  {
+    "customerCode": "dvkh",
+    "customerType": "P",
+    "name": "Wacky Wally\u0027s Used Cars",
+    "primaryContactCode": {
+      "personCode": "zyx321",
+      "lastName": "Dolan",
+      "firstName": " Ayaana",
+      "address": {
+        "street": "23450 Cabo San Lucas",
+        "city": " Los Cabos",
+        "state": " BCS",
+        "zip": "",
+        "country": " Mexico"
+      }
+    },
+    "address": {
+      "street": "123 Madison Avenue",
+      "city": " Bodega",
+      "state": " NL",
+      "zip": "",
+      "country": "CUBA"
+    }
+  },
+  {
+    "customerCode": "l0000000000ngc0d3",
+    "customerType": "B",
+    "name": "Demolition Derby",
+    "primaryContactCode": {
+      "personCode": "lejnr4",
+      "lastName": "Spooner",
+      "firstName": " Kenan",
+      "address": {
+        "street": "123 N 1st Street",
+        "city": "Compton",
+        "state": "CA",
+        "zip": "90210",
+        "country": "USA"
+      },
+      "emailAddress": [
+        "kspoons@emailservice.domain",
+        "thespoonman@soundgarden.com"
+      ]
+    },
+    "address": {
+      "street": "126-01 Roosevelt Ave",
+      "city": "Flushing",
+      "state": " NY",
+      "zip": "11368",
+      "country": "USA"
+    }
+  },
+  {
+    "customerCode": "asdf419",
+    "customerType": "P",
+    "name": "Fenton Industries",
+    "primaryContactCode": {
+      "personCode": "biz45",
+      "lastName": "Hart",
+      "firstName": " Fenton",
+      "address": {
+        "street": "1 Wall Street",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10005-0012",
+        "country": "USA"
+      },
+      "emailAddress": [
+        "fentony@windstream.net"
+      ]
+    },
+    "address": {
+      "street": "1060 West Addison Street",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60613",
+      "country": "USA"
+    }
+  },
+  {
+    "customerCode": "421asdf",
+    "customerType": "B",
+    "name": "Foundation for the Arts",
+    "primaryContactCode": {
+      "personCode": "biz45",
+      "lastName": "Hart",
+      "firstName": " Fenton",
+      "address": {
+        "street": "1 Wall Street",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10005-0012",
+        "country": "USA"
+      },
+      "emailAddress": [
+        "fentony@windstream.net"
+      ]
+    },
+    "address": {
+      "street": "1 MetLife Stadium Dr",
+      "city": " East Rutherford",
+      "state": " NJ",
+      "zip": "07073",
+      "country": "USA"
+    }
+  },
+  {
+    "customerCode": "avnkbkjds",
+    "customerType": "P",
+    "name": "Juno Stephenson",
+    "primaryContactCode": {
+      "personCode": "lejnr4",
+      "lastName": "Spooner",
+      "firstName": " Kenan",
+      "address": {
+        "street": "123 N 1st Street",
+        "city": "Compton",
+        "state": "CA",
+        "zip": "90210",
+        "country": "USA"
+      },
+      "emailAddress": [
+        "kspoons@emailservice.domain",
+        "thespoonman@soundgarden.com"
+      ]
+    },
+    "address": {
+      "street": "123 N 1st Street",
+      "city": "Compton",
+      "state": "CA",
+      "zip": "90210",
+      "country": "USA"
+    }
+  }
+]

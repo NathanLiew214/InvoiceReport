@@ -1,0 +1,130 @@
+
+"null" :[
+  {
+    "invoiceCode": "INV001",
+    "ownerCode": "123a",
+    "customerCode": "lsvntk",
+    "listOfProducts": [
+      "qwertyuiop:4",
+      "b4z1ng4:2",
+      "ugis43:15",
+      "kvnjgbf5:3:b4z1ng4"
+    ],
+    "linkInvoiceProduct": [
+      {
+        "dailyCost": 50.75,
+        "deposit": 200.0,
+        "cleaningFee": 25.39,
+        "daysRented": 4.0,
+        "productCode": "qwertyuiop",
+        "productType": "R",
+        "productLabel": "2007 Ford Crown Victoria"
+      },
+      {
+        "partsCost": 100.0,
+        "hourlyLaborCost": 75.0,
+        "hoursWorked": 2.0,
+        "productCode": "b4z1ng4",
+        "productType": "F",
+        "productLabel": "Bumper Replacement"
+      },
+      {
+        "costPerMile": 4.0,
+        "milesTowed": 15.0,
+        "productCode": "ugis43",
+        "productType": "T",
+        "productLabel": "Tow \u003e 10 miles"
+      },
+      {
+        "unitCost": 10.0,
+        "quantity": 3.0,
+        "hasAssociatedRepair": true,
+        "associatedRepair": "b4z1ng4",
+        "productCode": "kvnjgbf5",
+        "productType": "C",
+        "productLabel": "Large \"Homemade\" Raisin Cookie"
+      }
+    ]
+  },
+  {
+    "invoiceCode": "INV002",
+    "ownerCode": "lejnr4",
+    "customerCode": "asdf419",
+    "listOfProducts": [
+      "t0m03:1",
+      "k04l4:10",
+      "sievub:6"
+    ],
+    "linkInvoiceProduct": [
+      {
+        "partsCost": 800.0,
+        "hourlyLaborCost": 25.0,
+        "hoursWorked": 1.0,
+        "productCode": "t0m03",
+        "productType": "F",
+        "productLabel": "Full Wheel Replacement"
+      },
+      {
+        "unitCost": 4.75,
+        "quantity": 10.0,
+        "hasAssociatedRepair": false,
+        "productCode": "k04l4",
+        "productType": "C",
+        "productLabel": "12-oz Coffee"
+      },
+      {
+        "costPerMile": 6.0,
+        "milesTowed": 6.0,
+        "productCode": "sievub",
+        "productType": "T",
+        "productLabel": "Tow \u003c 10 Miles"
+      }
+    ]
+  },
+  {
+    "invoiceCode": "INV003",
+    "ownerCode": "123a",
+    "customerCode": "avnkbkjds",
+    "listOfProducts": [
+      "kvnjgbf5:12"
+    ],
+    "linkInvoiceProduct": [
+      {
+        "unitCost": 10.0,
+        "quantity": 12.0,
+        "hasAssociatedRepair": false,
+        "productCode": "kvnjgbf5",
+        "productType": "C",
+        "productLabel": "Large \"Homemade\" Raisin Cookie"
+      }
+    ]
+  },
+  {
+    "invoiceCode": "INV004",
+    "ownerCode": "abc2",
+    "customerCode": "l0000000000ngc0d3",
+    "listOfProducts": [
+      "yuasi:14",
+      "k04l4:20"
+    ],
+    "linkInvoiceProduct": [
+      {
+        "dailyCost": 1000.0,
+        "deposit": 5000.0,
+        "cleaningFee": 50.0,
+        "daysRented": 14.0,
+        "productCode": "yuasi",
+        "productType": "R",
+        "productLabel": "Tesla Cybertruck"
+      },
+      {
+        "unitCost": 4.75,
+        "quantity": 20.0,
+        "hasAssociatedRepair": false,
+        "productCode": "k04l4",
+        "productType": "C",
+        "productLabel": "12-oz Coffee"
+      }
+    ]
+  }
+]
